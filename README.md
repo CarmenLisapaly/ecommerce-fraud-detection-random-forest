@@ -12,8 +12,11 @@ This project develops a machine learning pipeline to detect fraudulent e-commerc
 - Model evaluation
 - Manual fraud prediction
 
-- ## Dataset
-Fraudulent E-Commerce Transaction Dataset (Kaggle)
+## Dataset
+- **Name:** Fraudulent E-Commerce Transactions
+- **Source:** Kaggle
+- **Dataset Type:** Synthetic e-commerce transaction dataset
+- **Link:** https://www.kaggle.com/datasets/shriyashjagtap/fraudulent-e-commerce-transactions
 
 ## Technologies
 - Python
