@@ -29,8 +29,8 @@ This project develops a machine learning pipeline to detect fraudulent e-commerc
 - Seaborn
 
 ## Results
-- Accuracy: 83.44%
-- Fraud Recall: 61%
+- **Accuracy:** 83.44%
+- **Fraud Recall:** 61%
 
 - ## Project Workflow
 
