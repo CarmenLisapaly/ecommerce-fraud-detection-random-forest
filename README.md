@@ -25,7 +25,7 @@ Fraudulent E-Commerce Transaction Dataset (Kaggle)
 - Matplotlib
 - Seaborn
 
-- ## Results
+## Results
 - Accuracy: 83.44%
 - Fraud Recall: 61%
 
