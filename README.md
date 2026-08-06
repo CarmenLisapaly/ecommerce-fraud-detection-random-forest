@@ -73,10 +73,10 @@ Fraud Prediction
 
 ## 📊 Results
 
-- Processed **23,634 synthetic e-commerce transaction records** for fraud detection.
+- Processed **23,634** synthetic e-commerce transaction records containing **16 transaction features**.
 - Applied **SMOTE** to address severe class imbalance before model training.
-- Achieved **83.44% classification accuracy** on the test set.
-- Achieved **61% fraud recall**, improving the model's ability to identify fraudulent transactions in an imbalanced dataset.
+- Achieved **83.44% classification accuracy** on the project test set.
+- Achieved **61% fraud recall**, demonstrating effective detection of fraudulent transactions in an imbalanced dataset.
 
 ---
 
