@@ -92,5 +92,5 @@ ecommerce-fraud-detection-random-forest/
 │   └── fraud_detection.ipynb
 │
 └── data/
-    └── fraud_dataset.csv
+    └── fraud_dataset.txt
 ```
